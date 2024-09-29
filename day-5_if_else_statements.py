@@ -12,7 +12,7 @@ if len(y)>= 5:
 else:
     print("your name is short")
 
-MyName=str(input("enter a name"))
+MyName=input("enter a name")
 
 if MyName == "indira" :
     print("welcome user")
