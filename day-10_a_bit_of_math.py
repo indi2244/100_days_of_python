@@ -29,4 +29,3 @@ print("total bill",total_bill)
 print("amount without tip" , amount_without_tip)
 print("amount with tip", amount_with_tip)
 
-
