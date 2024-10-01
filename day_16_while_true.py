@@ -65,13 +65,13 @@ while True:
 
 counter = 1
 while True:
-  lyrics = input("I don't wanna ______ a thing. ")
-  if lyrics == "miss" or lyrics == "Miss":
+  lyrics = input("johnyjohny ______ papa. ")
+  if lyrics == "Yes" or lyrics == "yes":
     print("You got it!")
   else:
     print("Nope! Try again!")
     counter +=1
-  if lyrics == "miss":
+  if lyrics == "yes":
     break
 print("Thanks for playing!")
 print("You got the correct lyrics in", counter, "attempt(s).")   
